@@ -1,4 +1,4 @@
-# 📊 Case Técnico iFood — Análise de Teste A/B com Segmentação e ROI
+# Case Técnico iFood — Análise de Teste A/B com Segmentação e ROI
 
 Este projeto contém a solução para um case técnico do iFood com foco em **análise de teste A/B**, **segmentação de usuários** e **avaliação de viabilidade financeira**.
 
