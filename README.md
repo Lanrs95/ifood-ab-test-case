@@ -1,4 +1,4 @@
-### > ⚠️ ste notebook foi originalmente desenvolvido no Databricks Community Edition.
+###  Este notebook foi originalmente desenvolvido no Databricks Community Edition.
 
 
 # Case Técnico iFood — Análise de Teste A/B com Segmentação e ROI
