@@ -4,7 +4,7 @@ Este projeto contém a solução para um case técnico do iFood com foco em **an
 
 ---
 
-## 🧪 Sobre o desafio
+##  Sobre o desafio
 
 O desafio propôs avaliar uma campanha de cupons que foi aplicada a um grupo de usuários (target), comparando seu comportamento com usuários não impactados (control). A solução exigia:
 
@@ -19,7 +19,7 @@ O desafio propôs avaliar uma campanha de cupons que foi aplicada a um grupo de 
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ### 1. Clone este repositório:
 
